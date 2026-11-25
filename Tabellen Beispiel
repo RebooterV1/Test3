@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Tabelen Test</title>
+</head>
+<body>
+    <h1>TAbelle</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Wert1</th>
+                <th>Wert2</th>
+                <th>Wert3</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Wert1</td>
+                <td>Wert2</td>
+                <td>Wert3</td>
+            </tr>
+            <tr>
+                <td>Wert1</td>
+                <td>Wert2</td>
+                <td>Wert3</td>
+            </tr>
+            <tr>
+                <td>Wert1</td>
+                <td>Wert2</td>
+                <td>Wert3</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
